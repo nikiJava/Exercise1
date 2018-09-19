@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Exercise1</string>
+    <string name="hint_message">Type your message here…</string>
+    <string name="preview">Preview</string>
+    <string name="email">Email</string>
+    <string name="message_no_email_client">There is no any email client on your phone</string>
+    <string name="clear">Clear</string>
+    <string name="message_empty_enter">Please, type you message</string>
+</resources>

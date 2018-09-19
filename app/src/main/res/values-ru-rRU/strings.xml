@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Упражнение1</string>
+    <string name="hint_message">Введите своё сообщение…</string>
+    <string name="preview">Просмотреть</string>
+    <string name="email">Отправить письмо</string>
+    <string name="message_no_email_client">На Вашем устройстве отсутствует почтовый клиент</string>
+    <string name="clear">Очистить</string>
+    <string name="message_empty_enter">Пожалуйста, введите сообщение</string>
+</resources>
